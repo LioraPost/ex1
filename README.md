@@ -17,6 +17,6 @@
 
 | English name        | Hebrew Name           |
 | ------------- |:-------------:| 
-| Panthera leo azandica      |  אריה קונגו| 
+| Panthera leo azandica     |אריה קונגו| 
 | Panthera leo leo     | אריה ברברי     |  
 | Panthera leo spelaean | אריה מערות    |  
